@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "rollnumber": "1",
+      "name": "ritik",
+      "dob": "2022-06-20",
+      "score": "2259",
+      "id": 2
+    },
+    {
+      "rollnumber": "2",
+      "name": "Arun",
+      "dob": "2022-06-20",
+      "score": "100",
+      "id": 3
+    }
+  ],
+  "teacherSignup": [
+    {
+      "fullname": "Shyamlal Meena",
+      "mobile": "01477882",
+      "email": "sm@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "fullname": "Shailendra Gupta",
+      "mobile": "01477882",
+      "email": "sg@gmail.com",
+      "password": "12345",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
